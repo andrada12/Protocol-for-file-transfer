@@ -1,1 +1,1 @@
-# Quantum Three Men's Morris
+# Protocol server-client for file transfer
